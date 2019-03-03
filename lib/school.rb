@@ -9,5 +9,6 @@ class School
   def grade
   end
   def sort
+    @roster.sort
   end
 end
