@@ -1,4 +1,6 @@
 class School
+  def initialize
+  end
   def add_student
   end
   def grade
